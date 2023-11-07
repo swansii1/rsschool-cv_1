@@ -33,3 +33,9 @@ Hello everyone, my name is Matvey. I have been working for a long time where I d
 </html>
 ```
 
+### Education
+* **College:** Tumanov College, specialty: information systems and programming.
+* **Course:** RS School Stage 0, RS School Stage 1(in progress)
+
+### Language 
+* English: A2
