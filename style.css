@@ -20,4 +20,51 @@ width: 1500px;
     box-shadow: 1px 1px 50px black;
     margin: 20px 10px 0px 50px;
 }
+.name{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+  .JFD{
+    margin: 1px 30px 1px 40px;
+    letter-spacing: 1px;
+  }
+  .contacs-1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+  }
+  ul{
+    font-size: 20px;
+
+  }
+
+  h2{
+    text-align: center;
+  }
+
+  .education{
+    margin: 50px 50px;
+    border: thick double chocolate;
+  }
+
+  .code{
+    border: thick double chocolate;
+    margin: 50px 50px;
+  }
+  .about_me{
+    margin: 50px 50px;
+    padding: 15px;
+    border: thick double chocolate;
+  }
+
+  .skills{
+    margin: 50px 50px;
+    border: thick double chocolate;
+  }
+
+  .launguage{
+    margin: 50px 50px;
+    border: thick double chocolate;
+  }
 
