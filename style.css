@@ -6,7 +6,6 @@ body{
     justify-content: space-between;
     background: rgb(37, 37, 37);
 }
- 
 .box-1{
 background: rgb(208, 202, 202);
 width: 1500px;
@@ -37,18 +36,14 @@ width: 1500px;
   }
   ul{
     font-size: 20px;
-
   }
-
   h2{
     text-align: center;
   }
-
   .education{
     margin: 50px 50px;
     border: thick double chocolate;
   }
-
   .code{
     border: thick double chocolate;
     margin: 50px 50px;
@@ -58,12 +53,10 @@ width: 1500px;
     padding: 15px;
     border: thick double chocolate;
   }
-
   .skills{
     margin: 50px 50px;
     border: thick double chocolate;
   }
-
   .launguage{
     margin: 50px 50px;
     border: thick double chocolate;
